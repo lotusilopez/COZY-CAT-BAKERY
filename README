@@ -1,0 +1,55 @@
+Cozy Cat Bakery
+
+About
+
+Cozy Cat Bakery is a cute bakery game created using Microsoft MakeCode Arcade. The player controls a baker cat who prepares desserts for customer cats. Customers randomly order one or two different desserts, and the player must bake and serve them to earn points.
+
+How to Play
+
+Listen to the customer's order.
+
+Press A to bake the requested dessert.
+
+Press A again to serve it.
+
+Complete the order to welcome the next customer.
+
+Earn points for every dessert served!
+
+Features
+
+Three desserts: cupcakes, apple pies and cookies.
+
+Random orders with one or two different desserts.
+
+Customer dialogue and reactions.
+
+Baking sounds and heart effects.
+
+Score tracking.
+
+Animated customer movement.
+
+Programming Concepts
+
+Variables: Track the current order and game progress.
+
+Lists: Store dessert images, names and customer orders.
+
+Conditionals: Control the baking and serving stages.
+
+Loops: Shuffle desserts and create customer orders.
+
+Functions: Organise the game into separate tasks.
+
+Randomisation: Generate different orders and dialogue.
+
+Events: Detect when the player presses A.
+
+Tools Used
+
+Microsoft MakeCode Arcade
+
+Python-style programming
+
+Custom pixel-art sprites and backgrounds
